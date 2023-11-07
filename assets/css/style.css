@@ -1,10 +1,3 @@
-/**
-* Template Name: iPortfolio - v3.9.1
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -228,7 +221,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/hero-bg.jpg") top center;
+  background: url("../img/bg.webp") top center;
   background-size: cover;
 }
 
@@ -364,6 +357,8 @@ section {
 .about .content p:last-child {
   margin-bottom: 0;
 }
+
+
 
 /*--------------------------------------------------------------
 # Facts
@@ -1096,9 +1091,19 @@ section {
 }
 
 @media (max-width: 1199px) {
-  #footer {
-    position: static;
-    width: auto;
-    padding-right: 20px 15px;
-  }
+    #footer {
+        position: static;
+        width: auto;
+        padding-right: 20px 15px;
+    }
 }
+
+
+
+
+
+
+
+
+
+
